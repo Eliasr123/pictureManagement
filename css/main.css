@@ -104,7 +104,11 @@ body {
     background-position: center;
     background-size: 100%;
 }
-
+img {
+    padding: 1%;
+    width:30%;
+    height: auto;
+}
 
 
 
